@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1346223165/photo/encryption-your-data-binary-code-and-digital-lock-hacker-attack-and-data-breach-big-data-with.jpg?b=1&s=170667a&w=0&k=20&c=D017cD3Uy1ynHOm7w2i4ugulbXQ5qW7OBxYdkni1tzY=">
 
-- 🔭 I’m currently working Internship on **TNXT India Private Limited**
+- 🔭 I’m currently working on **TNXT India Private Limited**
 
-- 🌱 I’m currently learning **Software Developer**
+- 🌱 I’m current position is **Software Developer**
 
 - 💬 Ask me about **React.js, Express.js, mongoDB, SPFX, TypeScript, JavaScript, Core Java, PHP**
 
