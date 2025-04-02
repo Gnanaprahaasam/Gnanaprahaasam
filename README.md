@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, Express.js, mongoDB, SPFX, TypeScript, JavaScript, Core Java, PHP**
 
-- 📫 How to reach me **gnanaprahaasamsr@gmail.com**
+- 📫 How to reach me **srgnanaprahaasam@gmail.com**
 
 <h3 align="left">About me:</h3>
 <p align="left">I’m a software developer with two years of experience in web application development, specializing in building scalable and secure applications using React.js, Express.js, and Node.js, with MongoDB for database management. I have been actively involved in all stages of the development process, from requirement gathering and architecture design to deployment.</p>
